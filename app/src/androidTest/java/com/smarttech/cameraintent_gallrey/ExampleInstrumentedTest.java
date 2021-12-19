@@ -1,4 +1,4 @@
-package com.smarttech.cameraintent;
+package com.smarttech.cameraintent_gallrey;
 
 import android.content.Context;
 

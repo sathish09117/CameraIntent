@@ -1,4 +1,4 @@
-package com.smarttech.cameraintent;
+package com.smarttech.cameraintent_gallrey;
 
 import org.junit.Test;
 
